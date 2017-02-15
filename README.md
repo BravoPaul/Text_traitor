@@ -13,7 +13,7 @@
 这个项目是用java写的，所以对于有些规则时间复杂度特别高，后来我们发现用python写会好很多，所以项目应该用python来写，这样可以节省很多大矩阵运算的时间。并且根据我们的结果，并不是使用的规则越多，得到的结果就越准确。当我们只是用单词和字母时候，得到的数据是最准确的。其实仍然有很多规则可以用在训练算法中，例如地名，标点，语法错误等，如果我们运用了足够多的规则，理论上预测的精确程度可以到85%左右。因为没有足够的时间，所以我们没有完成这些。
 项目架构：
 
-![image](https://github.com/BravoPaul/blob/master/tu.png)
+![image](https://github.com/BravoPaul/Text_traitor/blob/master/jiagou.PNG)
 
 
 从上面的架构可以看出这个project大致由以下三部分构成：
